@@ -1,0 +1,23 @@
+.todo {
+    border-radius: 5px;
+    border: 1px dashed salmon;
+    margin: 10px;
+    width: 300px;
+    margin: 10px auto;
+    font-size: 36px;
+    color: darkslategray;
+}
+
+.done {
+    background-color: lightseagreen;
+    text-decoration-line: line-through;
+} 
+
+.notDone {
+    background-color: lightcoral;
+}
+
+.delete {
+    background-color: lightcoral;
+    color: darkslategray;
+}
